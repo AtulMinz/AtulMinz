@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atulya Minz</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [atulminz.netlify.app](atulminz.netlify.app)
+- 👨‍💻 All of my projects are available at [atulminz.works](atulminz.works)
 
 - 💬 Ask me about **react, java and javascript**
 
