@@ -69,6 +69,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats : https://github-readme-streak-stats.herokuapp.com/?user=AtulMinz</h3>
 
 ###
