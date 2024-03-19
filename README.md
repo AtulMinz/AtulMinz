@@ -69,6 +69,7 @@
 
 ###
 
-<h3 align="left">My Stats : https://github-readme-streak-stats.herokuapp.com/?user=AtulMinz</h3>
+<h3 align="left">My Stats : </h3>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AtulMinz)](https://git.io/streak-stats)
 
 ###
