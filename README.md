@@ -70,6 +70,5 @@
 ###
 
 <h3 align="left">My Stats : </h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AtulMinz)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtulMinz&theme=tokyonight-duo&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 ###
