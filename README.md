@@ -59,6 +59,3 @@
 </div>
 
 ###
-
-<h3 align="left">My Stats : </h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtulMinz&theme=tokyonight-duo&hide_border=true&border_radius=4.4" alt="GitHub Streak" /></a>
