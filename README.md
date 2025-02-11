@@ -1,7 +1,6 @@
 ##
 <h2>Hi there, I'm Atulya - Blockchain & Full-Stack Developer 🚀</h2>
 
-##
 <h2>About Me: </h2>
 
 - I’m passionate about leading and innovating in the Blockchain space.
